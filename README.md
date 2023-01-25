@@ -1,2 +1,3 @@
-# Prepcourse-Henry
-este es un repositorio de prueba del módulo 2 del prep course de Henry
+
+Este proyecto es una prueba de cómo crear un reposiorio en la nube y clonarlo a mi escritorio local
+Hecho por Sharon Ortiz en el prepCourse módulo 2 de Henry
